@@ -1,4 +1,4 @@
-# Banking API - CI/CD Demo
+# Banking API - Golang
 
 ## Description
 Simple Banking API with automated CI/CD pipeline demonstrating DevOps best practices.
